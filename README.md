@@ -16,5 +16,6 @@
 * https://github.com/Error4984/The-Arkan-Project/blob/main/Assets/Assets.md
 
 ## You Science
-* [Game.designer_.overseer.of.games.pdf](https://github.com/user-attachments/files/19813702/Game.designer_.overseer.of.games.pdf)
+* ![Game designer_ overseer of games](https://github.com/user-attachments/assets/aab8523e-0bdb-46f9-8215-e15e82b3cfa2)
+
 
