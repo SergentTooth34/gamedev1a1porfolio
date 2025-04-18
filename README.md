@@ -14,3 +14,6 @@
 * Specific contributions by me below 
 * https://github.com/Error4984/The-Arkan-Project/tree/main/Assets
 * https://github.com/Error4984/The-Arkan-Project/blob/main/Assets/Assets.md
+
+## You Science
+* [Game designer_ overseer of games.pdf](https://github.com/user-attachments/files/19813676/Game.designer_.overseer.of.games.pdf)
