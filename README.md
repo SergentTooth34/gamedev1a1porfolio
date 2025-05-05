@@ -9,7 +9,7 @@
 
 # Team Projects
 ## The Arkan Project
-* (Demo) https://github.com/Error4984/The-Arkan-Project.git
+* (Demo) (https://github.com/Error4984/The-Arkan-Project.git)
 * This project was made by me, James Sturm, Henry Baldwin, and Eli Wright
 * Specific contributions by me below 
 * https://github.com/Error4984/The-Arkan-Project/tree/main/Assets
