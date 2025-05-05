@@ -15,7 +15,8 @@
 * https://github.com/Error4984/The-Arkan-Project/tree/main/Assets
 * https://github.com/Error4984/The-Arkan-Project/blob/main/Assets/Assets.md
 * Much of the game will have the player exploring. The goal of doing this is to acquire resources and find new locations. With the resources they can upgrade their weapons and other things and the new locations will be like levels. They will find entrances to “dungeons” that will have a variety of enemies and a boss in them. The overall goal is to complete all dungeons and kill the final boss in the final dungeon.
-![pictures.pdf](https://github.com/user-attachments/files/20038304/pictures.pdf)
+![Screenshot 2025-05-05 at 8 11 24 AM](https://github.com/user-attachments/assets/c76d9320-9956-4a4e-8f0f-7ca6ee33e4bd)
+
 
 
 
